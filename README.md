@@ -13,8 +13,8 @@
 
 ### How do I set it up?
 - Download and install [KeepErSafe](https://github.com/Xechorizo/KeepErSafe/blob/master/KeepErSafe.msi)
-- Set it to Run As Administrator
-- Add your friends' IP addresses to the list.
+- Set it to Run As Administrator.
+- Add your friends' IP addresses to the list. 
 
 ### How do I use it?
 - (RDR2 Only) Use the menu to get to the Change Appearance screen.
@@ -31,7 +31,7 @@
 ## Change Log
 
 #### 1.0
-- Initial release
+- Initial release.
 
 #### Future:
 - Nothing yet!
