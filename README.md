@@ -12,7 +12,7 @@
 - This tool uses PowerShell to keep riffraff out of your open session RDR2 and GTAO games.
 
 ### How do I set it up?
-- Download and install [KeepErSafe](https://github.com/Xechorizo/KeepErSafe/blob/master/KeepErSafe.msi)
+- Download and install [KeepErSafe](https://github.com/Xechorizo/KeepErSafe/blob/master/KeepErSafe.msi).
 - Set it to Run As Administrator.
 - Add your friends' IP addresses to the list. 
 
