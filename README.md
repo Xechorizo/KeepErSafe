@@ -21,7 +21,8 @@
 - Click "Root'n Toot'n" to enable. Everyone is kicked out of your session.
 - (RDR2 Only) Return to game.
 - Click "Cowboy Shoot'n" to disable so your friends can join.
-- Have your friends join your session. They also need KeepErSafe installed, with your IP added to their whitelist.
+- Have your friends join your session. Return to game.
+- (RDR2 Only) Your friends also need KeepErSafe installed, with your IP added to their whitelist.
 - Once everyone's in-game, everyone enables it at the same time.
 - No more hackers ruining the fun.
 
