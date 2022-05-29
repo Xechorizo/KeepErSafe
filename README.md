@@ -1,11 +1,11 @@
 
-# [Download KeepErSafe 1.0.11 Installer](https://github.com/Xechorizo/KeepErSafe/releases/download/GTAV/KeepErSafe.msi)
+# [Download KeepErSafe 1.0.13 Installer](https://github.com/Xechorizo/KeepErSafe/releases/download/GTAV/KeepErSafe.msi)
 Or
-[Download KeepErSafe 1.0.11 Standalone](https://github.com/Xechorizo/KeepErSafe/releases/download/GTAV/KeepErSafe.exe)
-- MSI SHA256: `DFAA6477AEAC58D278A19963B18B51E41B7ED5DB47F51DE9FBB2867042F69739`
-- EXE SHA256: `444E8CF51630CDD0D45A07C2187355CA04ADF87DA2FF2907FEC643D2E2E9DF3E`
-- [VirusTotal for MSI](https://www.virustotal.com/gui/file/dfaa6477aeac58d278a19963b18b51e41b7ed5db47f51de9fbb2867042f69739?nocache=1)
-- [VirusTotal for EXE](https://www.virustotal.com/gui/file/444e8cf51630cdd0d45a07c2187355ca04adf87da2ff2907fec643d2e2e9df3e?nocache=1)
+[Download KeepErSafe 1.0.13 Standalone](https://github.com/Xechorizo/KeepErSafe/releases/download/GTAV/KeepErSafe.exe)
+- MSI SHA256: `B629825EBB38BB2186CF0ADD9C94EB081AEC84B9F7A805A437B4DEB4D234070D`
+- EXE SHA256: `3C019475450E0A62DFF5D867F947AD032FE5C5A3CD249465AEC966FE8581E4AA`
+- [VirusTotal for MSI](https://www.virustotal.com/gui/file/b629825ebb38bb2186cf0add9c94eb081aec84b9f7a805a437b4deb4d234070d?nocache=1)
+- [VirusTotal for EXE](https://www.virustotal.com/gui/file/3c019475450e0a62dff5d867f947ad032fe5c5a3cd249465aec966fe8581e4aa?nocache=1)
 
 ### Made by Xech
 - Written for Grand Theft Auto V Online and Red Dead Redemption 2 Online on Steam - Revised May 2022
@@ -30,8 +30,8 @@ __GTAV__
 - No more modders or hackers!
 
 __RDR2__
-- Install KeepErSafe.
-- Have your friends install KeepErSafe.
+- Install KeepErSafe and enable "RDR2" checkbox at the bottom.
+- Have your friends install KeepErSafe and enable "RDR2" checkbox at the bottom.
 - Open the Change Appearance screen from the in-game menu.
 - Click "Enable" to kick everyone but you out of your session.
 - Return to the game.
@@ -46,6 +46,9 @@ __RDR2__
 - It does not modify the game files nor memory in any way.
 
 ## Change Log
+
+#### 1.0.13
+- Added an RDR2 checkbox for its quirks.
 
 #### 1.0.10
 - Added an Automagic button and improved general usability.
