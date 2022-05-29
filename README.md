@@ -1,7 +1,8 @@
 
-# [Download KeepErSafe 1.0.10](https://github.com/Xechorizo/KeepErSafe/releases/download/GTAV/KeepErSafe.msi)
-- SHA256: 4B226B72D3A54CED4EB9841A93ACC38ECAAE8C32D81098EDD17824A295426D85
-- [VirusTotal for MSI](https://www.virustotal.com/gui/file/4b226b72d3a54ced4eb9841a93acc38ecaae8c32d81098edd17824a295426d85?nocache=1)
+# [Download KeepErSafe 1.0.11](https://github.com/Xechorizo/KeepErSafe/releases/download/GTAV/KeepErSafe.msi)
+- MSI SHA256: DFAA6477AEAC58D278A19963B18B51E41B7ED5DB47F51DE9FBB2867042F69739
+- EXE SHA256: 444E8CF51630CDD0D45A07C2187355CA04ADF87DA2FF2907FEC643D2E2E9DF3E
+- [VirusTotal for MSI](https://www.virustotal.com/gui/file/dfaa6477aeac58d278a19963b18b51e41b7ed5db47f51de9fbb2867042f69739?nocache=1)
 - [VirusTotal for EXE](https://www.virustotal.com/gui/file/444e8cf51630cdd0d45a07c2187355ca04adf87da2ff2907fec643d2e2e9df3e?nocache=1)
 
 ### Made by Xech
@@ -19,14 +20,13 @@
 - Add your friends' IP addresses to the list, or try the Automagic button.
 
 ### How do I use it?
-- If using Manual entries, add your friends' IP addresses to the list.
 - (RDR2 Only) Use the menu to get to the Change Appearance screen.
 - Click "Enable". Everyone is kicked out of your session.
 - (RDR2 Only) Return to game.
 - Click "Disable" to disable so your friends can join.
 - Have your friends join your session. Return to game.
 - (RDR2 Only) Your friends also need KeepErSafe installed, with your IP added to their whitelist.
-- Once everyone's in-game, click "Enable". Or, try the Automagic button.
+- Once everyone's in-game, click "Enable".
 - (RDR2 Only) Everyone clicks "Enable" at the same time.
 - No more modders!
 
