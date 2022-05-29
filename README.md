@@ -1,5 +1,5 @@
 
-# [Download KeepErSafe 1.0.10](https://github.com/Xechorizo/KeepErSafe/blob/master/KeepErSafe.msi)
+# [Download KeepErSafe 1.0.10](https://github.com/Xechorizo/KeepErSafe/releases/download/GTAV/KeepErSafe.msi)
 - SHA256: 4B226B72D3A54CED4EB9841A93ACC38ECAAE8C32D81098EDD17824A295426D85
 - [VirusTotal for MSI](https://www.virustotal.com/gui/file/4b226b72d3a54ced4eb9841a93acc38ecaae8c32d81098edd17824a295426d85?nocache=1)
 - [VirusTotal for EXE](https://www.virustotal.com/gui/file/444e8cf51630cdd0d45a07c2187355ca04adf87da2ff2907fec643d2e2e9df3e?nocache=1)
