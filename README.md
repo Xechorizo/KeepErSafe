@@ -17,7 +17,7 @@
 
 ### How do I set it up?
 - Download, install, and run [KeepErSafe](https://github.com/Xechorizo/KeepErSafe/blob/master/KeepErSafe.msi).
-- Add your friends' IP addresses to the list, or try the Automagic button (requires Windows 10 or higher).
+- If using Manual mode, add your friends' IP addresses to the list.
 
 ### How do I use it?
 __GTAV__
@@ -25,7 +25,7 @@ __GTAV__
 - Click "Enable" to kick everyone but you out of your session. You're now the P2P host.
 - Click "Disable" so that others can join.
 - Have your friends join your session.
-- Once everyone's in the session, click the "Automagic" button.
+- Once everyone's in the session, click the "Automagic" button (requires Windows 10 1809 or later.
 - Alternatively, add everyone else's IP addresses and click "Enable".
 - No more modders or hackers!
 
@@ -37,7 +37,7 @@ __RDR2__
 - Return to the game.
 - Click "Disable" so that others can join.
 - Have your friends join your session.
-- Once everyone's in the session with KeepErSafe installed, click the "Automagic" button.
+- Once everyone's in the session, click the "Automagic" button (requires Windows 10 1809 or later.
 - Alternatively, everyone in session can add everyone else's IP addresses and click "Enable".
 - No more modders or hackers!
 
