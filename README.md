@@ -1,7 +1,9 @@
 
-# [Download KeepErSafe 1.0.11](https://github.com/Xechorizo/KeepErSafe/releases/download/GTAV/KeepErSafe.msi)
-- MSI SHA256: DFAA6477AEAC58D278A19963B18B51E41B7ED5DB47F51DE9FBB2867042F69739
-- EXE SHA256: 444E8CF51630CDD0D45A07C2187355CA04ADF87DA2FF2907FEC643D2E2E9DF3E
+# [Download KeepErSafe 1.0.11 Installer](https://github.com/Xechorizo/KeepErSafe/releases/download/GTAV/KeepErSafe.msi)
+Or
+[Download KeepErSafe 1.0.11 Standalone](https://github.com/Xechorizo/KeepErSafe/releases/download/GTAV/KeepErSafe.exe)
+- MSI SHA256: `DFAA6477AEAC58D278A19963B18B51E41B7ED5DB47F51DE9FBB2867042F69739`
+- EXE SHA256: `444E8CF51630CDD0D45A07C2187355CA04ADF87DA2FF2907FEC643D2E2E9DF3E`
 - [VirusTotal for MSI](https://www.virustotal.com/gui/file/dfaa6477aeac58d278a19963b18b51e41b7ed5db47f51de9fbb2867042f69739?nocache=1)
 - [VirusTotal for EXE](https://www.virustotal.com/gui/file/444e8cf51630cdd0d45a07c2187355ca04adf87da2ff2907fec643d2e2e9df3e?nocache=1)
 
@@ -10,8 +12,6 @@
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=Q6EZY28VVDGCL&currency_code=USD&source=url)
 
-
-## Readme
 ### What does it do?
 - This tool keeps modders and hackers out of your open GTAO and RDR2 sessions/lobbies.
 
