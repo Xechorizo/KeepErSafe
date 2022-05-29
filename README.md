@@ -19,13 +19,14 @@
 - Add your friends' IP addresses to the list, or try the Automagic button.
 
 ### How do I use it?
+- If using Manual entries, add your friends' IP addresses to the list.
 - (RDR2 Only) Use the menu to get to the Change Appearance screen.
 - Click "Enable". Everyone is kicked out of your session.
 - (RDR2 Only) Return to game.
 - Click "Disable" to disable so your friends can join.
 - Have your friends join your session. Return to game.
 - (RDR2 Only) Your friends also need KeepErSafe installed, with your IP added to their whitelist.
-- Once everyone's in-game, click "Enable".
+- Once everyone's in-game, click "Enable". Or, try the Automagic button.
 - (RDR2 Only) Everyone clicks "Enable" at the same time.
 - No more modders!
 
