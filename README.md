@@ -1,11 +1,11 @@
 
-# [Download KeepErSafe 1.0.15 Installer](https://github.com/Xechorizo/KeepErSafe/releases/download/GTAV/KeepErSafe.msi)
+# [Download KeepErSafe 1.0.16 Installer](https://github.com/Xechorizo/KeepErSafe/releases/download/GTAV/KeepErSafe.msi)
 Or
-[Download KeepErSafe 1.0.15 Standalone](https://github.com/Xechorizo/KeepErSafe/releases/download/GTAV/KeepErSafe.exe)
-- MSI SHA256: `BBCFB813226A21659FCF21A42668D8292D166F7B05EBF8F9D6915916C2BE2712`
-- EXE SHA256: `49BEDF7D72A46CAE24ABE610B4C24738277B50CEBED05F89AF48913A9663D1A8`
-- [VirusTotal for MSI](https://www.virustotal.com/gui/file/bbcfb813226a21659fcf21a42668d8292d166f7b05ebf8f9d6915916c2be2712?nocache=1)
-- [VirusTotal for EXE](https://www.virustotal.com/gui/file/49bedf7d72a46cae24abe610b4c24738277b50cebed05f89af48913a9663d1a8?nocache=1)
+[Download KeepErSafe 1.0.16 Standalone](https://github.com/Xechorizo/KeepErSafe/releases/download/GTAV/KeepErSafe.exe)
+- MSI SHA256: `C963CC2DD940BDF84D23540A3F18C67B8D79304C194C965B1C72D625A6CC8D21`
+- EXE SHA256: `A58DE555EF96EE47006116724CEB44D211837F6F9E5D11D54B3206943EE83BAE`
+- [VirusTotal for MSI](https://www.virustotal.com/gui/file/c963cc2dd940bdf84d23540a3f18c67b8d79304c194c965b1c72d625a6cc8d21?nocache=1)
+- [VirusTotal for EXE](https://www.virustotal.com/gui/file/a58de555ef96ee47006116724ceb44d211837f6f9e5d11d54b3206943ee83bae?nocache=1)
 
 ### Made by Xech
 - Written for Grand Theft Auto V Online and Red Dead Redemption 2 Online on Steam - Revised May 2022
@@ -46,6 +46,9 @@ __RDR2__
 - It does not modify the game files nor memory in any way.
 
 ## Change Log
+
+#### 1.0.16
+- Added Rockstar whitelist in debug menu (testing purposes only).
 
 #### 1.0.15
 - Added debug menu.
