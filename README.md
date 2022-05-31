@@ -16,7 +16,7 @@ Or
 - This tool keeps modders and hackers out of your open GTAO and RDR2 sessions/lobbies.
 
 ### How do I set it up?
-- Download, install, and run [KeepErSafe](https://github.com/Xechorizo/KeepErSafe/blob/master/KeepErSafe.msi).
+- Download, install, and run [KeepErSafe](https://github.com/Xechorizo/KeepErSafe/releases/download/GTAV/KeepErSafe.msi).
 - If using Manual mode, add your friends' IP addresses to the list.
 
 ### How do I use it?
@@ -66,7 +66,7 @@ __RDR2__
 - Initial release.
 
 #### Future:
-- Overwrite manual whitelist from the Automatic results.
+- Nothing yet!
 
 ## Disclosure
 ### *PROVIDED AS-IS WITH NO GUARANTEE EXPRESS OR IMPLIED*
