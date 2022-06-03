@@ -1,8 +1,8 @@
 
 # [Download KeepErSafe 1.0.20 Installer](https://github.com/Xechorizo/KeepErSafe/releases/download/GTAV/KeepErSafe.msi)
 
-- MSI SHA256: `189985F1C0518F1CCF1E4E23CEE128E28D0E643141562BB0832A964C7543BB63`
-- [VirusTotal](https://www.virustotal.com/gui/file/189985f1c0518f1ccf1e4e23cee128e28d0e643141562bb0832a964c7543bb63?nocache=1)
+- MSI SHA256: `72C1A42812DEDB1FB54040A412AB406A9B1C8D0F40EF4D94DD001924DEE5B80B`
+- [VirusTotal](https://www.virustotal.com/gui/file/72c1a42812dedb1fb54040a412ab406a9b1c8d0f40ef4d94dd001924dee5b80b?nocache=1)
 
 ### Made by Xech
 - Written for Grand Theft Auto V Online and Red Dead Redemption 2 Online on Steam - Revised May 2022
@@ -43,7 +43,7 @@ __RDR2__
 
 ## Change Log
 
-#### 1.0.18
+#### 1.0.20
 - Update prompt on launch.
 
 #### 1.0.17
