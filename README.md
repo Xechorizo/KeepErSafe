@@ -7,7 +7,7 @@
 ### Made by Xech
 - Written for Grand Theft Auto V Online and Red Dead Redemption 2 Online on Steam - Revised May 2022
 
-![Screenshot]([https://i.imgur.com/EA52mlg.png](https://i.imgur.com/1AjncWk.png))
+![Screenshot](https://i.imgur.com/EA52mlg.png)
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=Q6EZY28VVDGCL&currency_code=USD&source=url)
 
